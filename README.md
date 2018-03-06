@@ -6,4 +6,4 @@ Implement KDTree to reduce computation time of closest neighbor.
 Compute Optimal Translations and Rotations of the closest neightbors,minimize error, SVD Computation.
 Implement Sobel Filter to use only the significant points for the Trans and Rots.
 Pixelized Triangulation of the points for every different depth.
-//////    Used OpenCV, Eigen (linear Algebra lib) and VVR lib for visualization.
+Used OpenCV, Eigen (linear Algebra lib) and VVR lib for visualization.
